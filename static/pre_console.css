@@ -1,0 +1,18 @@
+
+body {
+background-color: black;
+}
+
+label {
+color: white;
+font-family: monospace;
+font-size: medium;
+}
+
+#bash_prompt {
+color: white;
+display: block;
+font-family: monospace;
+font-size: medium;
+width: 50%;
+}
